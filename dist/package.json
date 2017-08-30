@@ -7,7 +7,7 @@
   "typings": "main.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BTMorton/angular2-grid.git"
+    "url": "https://github.com/ajinkyau/angular2-grid.git"
   },
   "keywords": [
     "angular",
